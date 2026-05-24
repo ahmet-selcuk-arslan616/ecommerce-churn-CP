@@ -1,6 +1,6 @@
 # Conformal Prediction for Customer Churn Modeling on AWS
 
-![Project Cover](assets/project_cover.png)
+![Project Cover](churn-prediction.png)
 
 ## Overview
 
